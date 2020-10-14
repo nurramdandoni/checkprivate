@@ -1,0 +1,2 @@
+# checkprivate
+Test private deploy
