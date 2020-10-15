@@ -4,5 +4,10 @@
 </head>
 <body>
 <h1> Hallooo </h1>
+<script>
+$('#edi).click(function(){
+	alert("hallo);
+);
+</script>
 </body>
 </html>
